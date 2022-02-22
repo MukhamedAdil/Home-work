@@ -1,5 +1,5 @@
    JSON
- 4. Создать внешний репозиторий c названием JSON.     ===     создать внешний репозиторий на Гитхаб, скопировать ссылку (https://github.com/MukhamedAdil/JSON.git)
+Создать внешний репозиторий c названием JSON.     ===     создать внешний репозиторий на Гитхаб, скопировать ссылку (https://github.com/MukhamedAdil/JSON.git)
  5. Клонировать репозиторий JSON на локальный компьютер.   ===   cd D:     mkdir GIT     cd GIT     в терминале ввести команду и вставить ссылку: git clone https://github.com/MukhamedAdil/JSON.git
  6. Внутри локального JSON создать файл “new.json”.   ===  cd JSON     touch new.json
  7. Добавить файл под гит    ===     git add new.json
